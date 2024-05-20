@@ -6,6 +6,7 @@ Authors: Pranay Agarwal, Subhajit Dutta, Minerva Mukhopadhyay
 (b)	G-GiVSA: pMTM algorithm applied to the Group informed-g prior setup
 (c)	GSISd: The GSIS group inclusion probabilities for a chosen d
 The codes corresponding to (a) and (b) are provided in the GiVSA_codes sub-folder, and the codes corresponding to (c) are provided in the GSIS_codes subfolder. 
+
 2.	Application of M-GiVSA and G-GiVSA:
    
 2A.	To apply M-GiVSA or G-GiVSA methods, one needs to execute the following steps:
